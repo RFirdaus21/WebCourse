@@ -1,0 +1,23 @@
+<em> untuk italic
+<strong> untuk bold
+<a> itu anchor
+<q> untuk quote atau tanda "", bisa menggunakan atribut cite juga untuk memberi sumber url dari kata yang dikutip dan akan menjadi italic
+<dfn> digunakan dalam <p> atau <section> untuk memberi italic dalam mendefiniskan sesuatu biasa di awal kalimat
+<sub> memberi angka di bawah, <sup> angka di atas seperti pangkat
+<mark> mmeberi highlight pada teks
+<br> line break
+
+atribut pada input
+placeholder untuk teks samar pada kolom input, mengenai perintah/petunjuk isian 
+required menendakan untuk wajib diisi
+maxlength dan minlength unutk mmeberi batasan isian input
+
+lambang copyright = &copy
+registered trademark/ r bulet = $reg
+tm = $trade
+
+@font-face {
+    font fam : ;
+    src:url('');
+}
+untuk memanggil font eksternal
